@@ -1,0 +1,99 @@
+body{
+    background: linear-gradient(to right, #895ba6 0%, #2b75ba 100%);
+}
+
+.login{
+
+    width: 35%;
+    margin-left: 32%;
+    margin-top: 1%;
+    padding: 10px;
+    background: linear-gradient(to right, #85c7ed 0%, #369bbf 100%);
+    border-top-left-radius: 120px;
+
+}
+
+.login h3{
+
+    width: 100%;
+    font-size: 35px;
+    font-weight: lighter;
+    color: white;
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+
+}
+
+.login .input-box{
+
+    width: 148%;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 3px solid black;
+    background: linear-gradient(to right, #85c7ed 0%, #369bbf 100%);
+    color: white;
+
+
+}
+
+::placeholder {
+    color: #FFFFF7 ;
+    opacity: 1; /* Firefox */
+  }
+  
+  ::-ms-input-placeholder { /* Edge 12 -18 */
+    color: #FFFFF7;
+  }
+
+.login .txtclr{
+
+    font-size: 10px;
+    margin-left: 55px;
+    margin-top: 10px;
+    
+    
+
+}
+
+.login .txtclrs{
+
+    
+    font-size: 16px;
+    margin-right: 48px;
+    margin-top: 18px;
+    
+
+}
+
+.login button{
+
+    width: 80%;
+    margin-left: 41%;
+    margin-top: 15%;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 25px;
+    color: #4d8ac3;
+    background-color: #393939;
+    margin-bottom: 20px;
+
+
+
+}
+
+.login .newcolor{
+
+    width: 100%;
+    font-size: 14px;
+    margin-bottom: 45px;
+    margin-left: 18%;
+    padding-left: 30px;
+    color: white;
+    font-weight: lighter;
+
+}
